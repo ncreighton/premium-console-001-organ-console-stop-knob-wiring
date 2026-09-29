@@ -1,0 +1,2 @@
+# premium-console-001-organ-console-stop-knob-wiring
+Tired of tangled wires and forgotten connections when wiring your organ console stop knobs? This Notion template turns chaos into clarity.  It provides a structured system to map every stop knob to its wiring path, from switch to solenoid. No more miswires or hours tracing cables. Your console wiring becomes a breeze.  ## What's Included  - Pre-bui
